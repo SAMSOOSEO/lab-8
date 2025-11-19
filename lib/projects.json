@@ -1,0 +1,80 @@
+[
+    {
+    "title": "Bikewatching",
+    "year": "2025",
+    "image": "/images/image3.jpg",
+    "description": "interactive map visualization of bike traffic in the Boston area. https://samsooseo.github.io/lab-7/index.html "
+  },
+  {
+    "title": "Lorem ipsum dolor sit.",
+    "year": "2021",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing…ue deserunt nihil molestias fuga?"
+  },
+  {
+    "title": "Et saepe veniam culpa!",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Consequuntur praesentium ea perferendis deleniti n…tium ducimus nulla. Animi, harum?"
+  },
+  {
+    "title": "Aspernatur deserunt corrupti sapiente?",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Perferendis et possimus modi consectetur veritatis…um aliquid accusantium vel vitae?"
+  },
+  {
+    "title": "Natus similique fugit adipisci?",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Molestiae nemo veniam laborum maxime, quis odio fu…dita nam natus nihil ea quisquam."
+  },
+  {
+    "title": "Reiciendis aliquid officia in?",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Voluptatum aperiam ratione, nesciunt deserunt enim… voluptates, culpa possimus asperiores accusamus."
+  },
+  {
+    "title": "Eligendi officiis fugit ducimus.",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Libero mollitia qui, repellat cumque aliquam quod …enda nam aspernatur quidem velit!"
+  },
+  {
+    "title": "Quibusdam similique impedit ea?",
+    "year": "2021",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Voluptas similique exercitationem nulla aperiam al…lias voluptatibus quae hic saepe."
+  },
+  {
+    "title": "Porro cupiditate consequatur quaerat!",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Expedita nihil enim cumque vero alias. Laboriosam exercitationem. Facere, voluptates rem!"
+  },
+  {
+    "title": "Facilis, voluptas doloribus! Nemo.",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Unde aliquid fugiat animi hic eaque dicta praesent…tenetur saepe qui molestiae quis!"
+  },
+  {
+    "title": "Laudantium eaque magni esse.",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ipsa placeat similique sapiente magni numquam expe…eprehenderit ipsum recusandae in!"
+  },
+  {
+    "title": "Consequuntur porro accusantium neque.",
+    "year": "2021",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Ipsam eveniet atque provident rerum fuga nostrum a… porro eligendi totam voluptatum."
+  },
+  {
+    "title": "Pariatur voluptatibus beatae fugiat!",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Quos perferendis a sunt repellendus veniam et laud…m explicabo ad? Sint, quidem quo."
+  }
+]
