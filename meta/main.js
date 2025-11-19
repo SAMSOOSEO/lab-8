@@ -79,7 +79,7 @@ function buildSteps(commits) {
 // 5. SCATTER PLOT
 // ===============================
 function renderScatterPlot(commits) {
-  const width = 1500, height = 400;
+  const width = 1500, height = 500;
   const margin = { top: 10, right: 10, bottom: 50, left: 60 };
   const usable = {
     left: margin.left,

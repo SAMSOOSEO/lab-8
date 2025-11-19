@@ -509,14 +509,14 @@ body {
 /* Scatter plot */
 #chart {
   flex: none;          /* flex 1 제거 */
-  height: 400px;       /* 원하는 높이 지정 */
+  height: 500px;       /* 원하는 높이 지정 */
   width: 100%;
   border: 2px solid #000000;
 }
 
 /* Files list */
 #files {
-  max-height: 20%;
+  max-height: 30%;
   overflow-y: auto;
   border: 2px solid #000000;
   padding: 0.5rem;
