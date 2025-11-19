@@ -69,7 +69,6 @@ document.body.insertAdjacentHTML(
 </label>
 `
 );
-
 // select 요소 가져오는 코드
 const select = document.querySelector('.color-scheme select');
 
