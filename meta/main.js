@@ -64,7 +64,7 @@ function buildSteps(commits) {
     .data(commits)
     .join("div")
     .attr("class", "step")
-    .style("padding-bottom", "10vh")
+    .style("padding-bottom", "20vh")
     .each((d, i, nodes) => nodes[i].__data__ = d) // 데이터 바인딩
     .html(d => `
       On ${d.datetime.toLocaleString('en', { dateStyle:'full', timeStyle:'short' })}, 
