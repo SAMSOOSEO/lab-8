@@ -12,7 +12,7 @@ const pages = [
   { url: 'projects/', title: 'Projects' },
   { url: 'contact/', title: 'Contact' },
   { url: 'resume/', title: 'CV & Resume' },
-  { url: 'meta/', title: 'meta' },
+  { url: 'meta/', title: 'Meta' },
   { url: 'https://github.com/samsooseo', title: 'GitHub' }
 ];
 
@@ -77,7 +77,7 @@ if ('colorScheme' in localStorage) {
   const saved = localStorage.colorScheme;
   document.documentElement.style.setProperty('color-scheme', saved);
   select.value = saved;
-  console.log('loaded color scheme from localStorage:', saved);
+  console.log('loaded color scheme from localStorage:', saved);   
 }
 
 select.addEventListener('input', (event) => {
